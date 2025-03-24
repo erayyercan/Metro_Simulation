@@ -3,8 +3,8 @@
 ## Konu Başlıkları
 1.[Kullanılan Teknolojiler ve Kütüphaneler](#kullanılanteknolojilervekutuphaneler)
 2.[Algoritmaların Çalışma Mantığı](#2-algoritmaların-çalışma-mantığı)
-3.[Örnek Kullanım ve Test Sonuçları](3örnek-kullanım-ve-test-sonuçları)
-4.[Projeyi Geliştirme Fikirleri](4projeyi-geliştirme-fikirleri)
+3.[Örnek Kullanım ve Test Sonuçları](#3örnek-kullanım-ve-test-sonuçları)
+4.[Projeyi Geliştirme Fikirleri](#4projeyi-geliştirme-fikirleri)
 
 ---
 
