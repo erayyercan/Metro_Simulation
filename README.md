@@ -72,6 +72,7 @@ Metro ağı aşağıdaki istasyonları ve hatları içermektedir:
 - **Gar (T3)** (Aktarma İstasyonu)
 
 - **Keçiören (T4)**
+---
 
 ### Test Senaryoları
 
@@ -82,6 +83,12 @@ Metro ağı aşağıdaki istasyonları ve hatları içermektedir:
 
 
 3. `Keçiören (T4)` -> `AŞTİ (M1)`
+---
+
+### Test Sonuçları
+
+Verilen test seneryoları uygulandığında BFS ve A* algoritmaları sonuçları bu şekilde:
+
 
 
   
