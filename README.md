@@ -89,6 +89,6 @@ Metro ağı aşağıdaki istasyonları ve hatları içermektedir:
 
 Verilen test seneryoları uygulandığında BFS ve A* algoritmaları sonuçları bu şekilde:
 
-
+![Test Sonuçları](https://github.com/erayyercan/Metro_Simulation/blob/main/image/results.png)
 
   
