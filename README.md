@@ -1,11 +1,7 @@
 # Metro Simulation
 ----
-## 1. Proje Başlığı ve Kısa Açıklama
 
-Metro Simulation, bir metro ağında en az aktarma ve en hızlı rota bulmayı sağlayan bir Python uygulamasıdır. Kullanıcılar, belirli başlangıç ve hedef istasyonlarını seçerek metro ağındaki en optimal rotayı bulabilirler.
----
-
-## 2. Kullanılan Teknolojiler ve Kütüphaneler
+## 1. Kullanılan Teknolojiler ve Kütüphaneler
 
 Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
@@ -16,7 +12,7 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 - **typing:** Tip ipuçları ekleyerek kodun okunabilirliğini artırmak için kullanılmıştır.
 ---
 
-  ## 3. Algoritmaların Çalışma Mantığı
+  ## 2. Algoritmaların Çalışma Mantığı
 Projede iki farklı rota bulma algoritması kullanılmıştır:
 
 ### BFS (Genişlik Öncelikli Arama) Algoritması
@@ -35,5 +31,10 @@ Bu algoritma, en hızlı rotayı bulmak için kullanılmıştır. BFS gibi düğ
 - İstasyonlar ve bağlantılar arasındaki süreler hesaplanarak en hızlı güzergah belirlenir.
 
 - Hedef istasyona ulaşıldığında algoritma durur ve en kısa sürede varılacak rotayı döndürür.
+  
+### Neden Bu Algoritmalar Kullanıldı?
 
+- **BFS**, en kısa yol yerine en az aktarmalı rotayı bulmada oldukça etkilidir.
+
+- **A algoritması***, en kısa sürede hedefe ulaşmayı sağladığı için daha doğru ve hızlı sonuçlar üretir.
   
