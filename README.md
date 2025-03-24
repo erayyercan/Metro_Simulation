@@ -1,7 +1,7 @@
 # Metro Simulation
 
 ## Konu Başlıkları
-1. [Kullanılan Teknolojiler ve Kütüphaneler](#kullanılanteknolojilervekutuphaneler)
+1. [Kullanılan Teknolojiler ve Kütüphaneler](#1-kullanılan-teknolojiler-ve-kütüphaneler)
 2. [Algoritmaların Çalışma Mantığı](#2-algoritmaların-çalışma-mantığı)
 3. [Örnek Kullanım ve Test Sonuçları](#3örnek-kullanım-ve-test-sonuçları)
 4. [Projeyi Geliştirme Fikirleri](#4projeyi-geliştirme-fikirleri)
