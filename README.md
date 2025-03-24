@@ -1,6 +1,7 @@
 # Metro Simulation
 
 ## 1. Proje Başlığı ve Kısa Açıklama
+
 **Metro Simulation**, bir metro ağında en az aktarma ve en hızlı rota bulmayı sağlayan bir Python uygulamasıdır. Kullanıcılar, belirli başlangıç ve hedef istasyonlarını seçerek metro ağındaki en optimal rotayı bulabilirler.
 ---
 
@@ -8,7 +9,7 @@
 
 Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
-- **collections:** 'defaultdict' ve 'deque' veri yapıları ile verimli veri yönetimi sağlamak için kullanılmıştır.
+- **collections:** `defaultdict` ve `deque` veri yapıları ile verimli veri yönetimi sağlamak için kullanılmıştır.
 
 - **heapq:** Öncelikli kuyruğu yönetmek ve en kısa sürede ulaşılacak rotayı hesaplamak için kullanılmıştır.
 
@@ -29,7 +30,7 @@ Bu algoritma, en az aktarma gerektiren rotayı bulmak için kullanılmıştır. 
 ### A (A Star) Algoritması*
 
 Bu algoritma, en hızlı rotayı bulmak için kullanılmıştır. BFS gibi düğümleri genişlik öncelikli ziyaret eder ancak her adımda toplam seyahat süresini dikkate alarak en iyi tahmini süreye sahip düğümü önceliklendirir.
-- Öncelikli bir kuyruk 'heapq' kullanılarak, en düşük toplam süresi olan rota seçilir.
+- Öncelikli bir kuyruk `heapq` kullanılarak, en düşük toplam süresi olan rota seçilir.
 
 - İstasyonlar ve bağlantılar arasındaki süreler hesaplanarak en hızlı güzergah belirlenir.
 
