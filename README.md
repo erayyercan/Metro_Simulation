@@ -75,13 +75,13 @@ Metro ağı aşağıdaki istasyonları ve hatları içermektedir:
 
 ### Test Senaryoları
 
-1. AŞTİ (M1) -> OSB (K4)
+1. `AŞTİ (M1)` -> `OSB (K4)`
 
 
-2. Batıkent (T1) -> Keçiören (T4)
+2. `Batıkent (T1)` -> `Keçiören (T4)`
 
 
-3. Keçiören (T4) -> AŞTİ (M1)
+3. `Keçiören (T4)` -> `AŞTİ (M1)`
 
 
   
