@@ -37,4 +37,51 @@ Bu algoritma, en hızlı rotayı bulmak için kullanılmıştır. BFS gibi düğ
 - **BFS**, en kısa yol yerine en az aktarmalı rotayı bulmada oldukça etkilidir.
 
 - **A algoritması***, en kısa sürede hedefe ulaşmayı sağladığı için daha doğru ve hızlı sonuçlar üretir.
+---
+
+## 3.Örnek Kullanım ve Test Sonuçları
+
+Metro ağı aşağıdaki istasyonları ve hatları içermektedir:
+
+### Kırmızı Hat
+
+- **Kızılay (K1)**
+
+- **Ulus (K2)**
+
+- **Demetevler (K3)**
+
+- **OSB (K4)**
+
+### Mavi Hat
+
+- **AŞTİ (M1)**
+
+- **Kızılay (M2)** (Aktarma İstasyonu)
+
+- **Sıhhiye (M3)**
+
+- **Gar (M4)**
+
+### Turuncu Hat
+
+- **Batıkent (T1)**
+
+- **Demetevler (T2)** (Aktarma İstasyonu)
+
+- **Gar (T3)** (Aktarma İstasyonu)
+
+- **Keçiören (T4)**
+
+### Test Senaryoları
+
+1. AŞTİ (M1) -> OSB (K4)
+
+
+2. Batıkent (T1) -> Keçiören (T4)
+
+
+3. Keçiören (T4) -> AŞTİ (M1)
+
+
   
