@@ -1,14 +1,14 @@
 # Metro Simulation
 
 ## Konu Başlıkları
-1. [Kullanılan Teknolojiler ve Kütüphaneler](#1-kullanılan-teknolojiler-ve-kütüphaneler)
+1. [Kullanılan Kütüphaneler](#1-kullanılan-teknolojiler-ve-kütüphaneler)
 2. [Algoritmaların Çalışma Mantığı](#2-algoritmaların-çalışma-mantığı)
 3. [Örnek Kullanım ve Test Sonuçları](#3örnek-kullanım-ve-test-sonuçları)
 4. [Projeyi Geliştirme Fikirleri](#4projeyi-geliştirme-fikirleri)
 
 ---
 
-## 1. Kullanılan Teknolojiler ve Kütüphaneler
+## 1. Kullanılan Kütüphaneler
 
 Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
@@ -20,7 +20,7 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 ---
 
   ## 2. Algoritmaların Çalışma Mantığı
-Projede iki farklı rota bulma algoritması kullanılmıştır:
+Projede iki farklı arama algoritması kullanılmıştır:
 
 ### BFS (Genişlik Öncelikli Arama) Algoritması
 Bu algoritma, en az aktarma gerektiren rotayı bulmak için kullanılmıştır. BFS, bir grafikte belirli bir başlangıç noktasından tüm düğümleri katman katman ziyaret ederek en kısa aktarma sayısını bulan bir algoritmadır.
