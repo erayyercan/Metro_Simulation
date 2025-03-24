@@ -1,5 +1,7 @@
 # Metro Simulation
-----
+
+## Konu Başlıkları
+1.[Kullanılan Teknolojiler ve Kütüphaneler](#kullanılanteknolojilervekutuphaneler)
 
 ## 1. Kullanılan Teknolojiler ve Kütüphaneler
 
@@ -91,4 +93,16 @@ Verilen test seneryoları uygulandığında BFS ve A* algoritmaları sonuçları
 
 ![Test Sonuçları](https://github.com/erayyercan/Metro_Simulation/blob/main/image/results.png)
 
-  
+---
+
+## 4.Projeyi Geliştirme Fikirleri
+
+- **Gerçek Zamanlı Veri Entegrasyonu:** Metro hatlarının gerçek zamanlı yoğunluk ve gecikme verilerini entegre ederek daha doğru tahminlerde bulunulabilir.
+
+- **GUI veya Web Arayüzü:** Kullanıcı dostu bir grafik arayüz eklenerek terminal yerine etkileşimli bir deneyim sunulabilir.
+
+- **Farklı Ulaşım Modları ile Entegrasyon:** Otobüs, tramvay gibi diğer toplu taşıma araçları ile entegrasyon sağlanarak daha geniş kapsamlı bir ulaşım simülasyonu oluşturulabilir.
+
+ ---
+Eray Ercan
+ 
