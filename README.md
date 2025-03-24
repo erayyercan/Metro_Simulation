@@ -51,6 +51,8 @@ Bu algoritma, en hızlı rotayı bulmak için kullanılmıştır. BFS gibi düğ
 Metro ağı aşağıdaki istasyonları ve hatları içermektedir:
 
 <h3 style="color:red;">Kırmızı Hat</h3>
+<h3 style="color: blue;">Mavi Hat</h3>
+
 ### Kırmızı Hat
 
 - **Kızılay (K1)**
